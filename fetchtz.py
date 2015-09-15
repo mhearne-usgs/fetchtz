@@ -27,7 +27,7 @@ shapefile_url = http://efele.net/maps/tz/world/tz_world_mp.zip
 web_page_url = http://efele.net/maps/tz/world/
 
 [OUTPUT]
-ftp = ftp://ftpint.cr.usgs.gov/pub/cr/co/golden/hazards/web/hazdev-geoserve-ws/timezones/
+ftp = ftp://hazards.cr.usgs.gov/web/hazdev-geoserve-ws/timezones/
 '''
 
 README = '''
